@@ -12,13 +12,13 @@ $background-color:  #2B6082;
 
   h1{
 	font-size: 20px;
-	margin: 25px 20px 5px;
+	margin: 20px 20px 0px;
 	float: left;
   }
 
   h2{
-	font-size: 16px;
-	margin: 5px 20px;
+	font-size: 13px;
+	margin: 0 20px;
 	float: left;
   }
 
@@ -36,10 +36,13 @@ $background-color:  #2B6082;
 
   #profile_button{
 	border-radius: 7px;
-	border-shadow: 
-	background-color: ;
-	margin: 5px 20px;
-	float: left;
+	border: none;
+	color: #163041;
+	box-shadow: 5px 5px 3px #204861;
+	background-color: #006599;
+	margin: 15px 20px 0;
+	padding: 7px;
+	float: right;
   }
 
 }
