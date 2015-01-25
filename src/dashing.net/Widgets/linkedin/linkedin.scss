@@ -1,0 +1,45 @@
+﻿// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color:  #2B6082;
+
+// ----------------------------------------------------------------------------
+// Widget-image styles
+// ----------------------------------------------------------------------------
+.widget-linkedin {
+
+  background-color: $background-color;
+
+  h1{
+	font-size: 20px;
+	margin: 25px 20px 5px;
+	float: left;
+  }
+
+  h2{
+	font-size: 16px;
+	margin: 5px 20px;
+	float: left;
+  }
+
+  #logo, #profile{
+	margin: auto 0;
+	width: 362px;
+	display: inline-block;
+  }
+
+  #profile img{
+	border-radius: 15px;
+	float: left;
+	max-width: 130px;
+  }
+
+  #profile_button{
+	border-radius: 7px;
+	border-shadow: 
+	background-color: ;
+	margin: 5px 20px;
+	float: left;
+  }
+
+}

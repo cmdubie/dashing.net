@@ -167,7 +167,9 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Content Include="Assets\chad_dubesa.jpg" />
     <Content Include="Assets\fontawesome-webfont.svg" />
+    <Content Include="Assets\linkedin-logo.png" />
     <Content Include="Assets\logo.png" />
     <Content Include="Assets\favicon.ico" />
     <Content Include="Scripts\batman.jquery.js" />
@@ -190,6 +192,7 @@
     <Content Include="Widgets\graph\graph.html" />
     <Content Include="Widgets\iframe\iframe.html" />
     <Content Include="Widgets\image\image.html" />
+    <Content Include="Widgets\linkedin\linkedin.html" />
     <Content Include="Widgets\list\list.html" />
     <Content Include="Widgets\meter\meter.html" />
     <Content Include="Widgets\number\number.html" />
@@ -229,6 +232,8 @@
     <Content Include="Widgets\text\text.coffee" />
     <Content Include="Widgets\text\text.scss" />
     <Content Include="Views\Error\Index.cshtml" />
+    <Content Include="Widgets\linkedin\linkedin.coffee" />
+    <Content Include="Widgets\linkedin\linkedin.scss" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
